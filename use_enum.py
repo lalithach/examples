@@ -18,3 +18,4 @@ for i,number in enumerate(numbers):
         numbers[i] = "BUZZ"
         
 print(numbers)
+# ['FIZZBUZZ', 22, 14, 'BUZZ', 97, 'FIZZ']
